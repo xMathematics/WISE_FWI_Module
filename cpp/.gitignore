@@ -1,0 +1,11 @@
+/Debug
+/Release
+/x64
+/FWICom.vcxproj.user
+/FwiCom.h
+/FwiCom_i.c
+/FwiCom_p.c
+/FwiCom.idl.ts
+/FwiCom.tlb
+/dlldata.c
+build
